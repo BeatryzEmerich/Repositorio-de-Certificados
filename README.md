@@ -15,6 +15,6 @@ Sinta-se à vontade para explorar as pastas e conhecer mais sobre as áreas em q
 
 ## Contribuição
 
-Este repositório é pessoal, mas sinta-se à vontade para se inspirar ou fazer sugestões. Se você tiver alguma pergunta sobre algum certificado específico, fique à vontade para criar um problema.
+Este repositório é pessoal, mas sinta-se à vontade para se inspirar ou fazer sugestões. Se você tiver alguma pergunta sobre algum certificado específico, fique à vontade para criar um Issues.
 
 Obrigado por visitar e compartilhar essa jornada de aprendizado comigo! 🚀
